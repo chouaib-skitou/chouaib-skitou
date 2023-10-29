@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular, JAVA, UX/UI**
 
-- 📫 How to reach me **contact@chouaib-skitou.tech**
+- 📫 How to reach me **contact@chouaib-skitou.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
