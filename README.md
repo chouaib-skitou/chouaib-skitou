@@ -38,6 +38,6 @@
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chouaib-skitou&show_icons=true&locale=en&layout=compact" alt="chouaib-skitou" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chouaib-skitou&show_icons=true&locale=en&layout=compact" alt="chouaib-skitou" /></p>-->
 
 
