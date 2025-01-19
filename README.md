@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chouaib</h1>
-<h3 align="center">A passionate Software Engineer from France</h3>
+<h1 align="center">Hi 👋, I'm Chouaib <br><img align="center" src="https://flagcdn.com/w40/ma.png" alt="Morocco Flag" width="30" height="20" /></h1>
+
+<h3 align="center">A passionate Software Engineer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chouaib-skitou&label=Profile%20views&color=0e75b6&style=flat" alt="chouaib-skitou" /> </p>
 
