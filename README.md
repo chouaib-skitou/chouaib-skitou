@@ -517,7 +517,7 @@ continuous improvement.
   </a>
 </p>
 
----
+<!-- --- -->
 
 <!-- <p align="center">
   <i>
