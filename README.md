@@ -521,7 +521,7 @@ continuous improvement.
 
 <!-- <p align="center">
   <i>
-    Interested in product engineering, platform capabilities, -->
+    Interested in product engineering, platform capabilities,
     DevOps and reliable software systems.
   </i>
-</p>
+</p> -->
