@@ -68,16 +68,13 @@ I like owning the full journey: discovery, technical design, implementation, dep
   Observability · Scalability · Developer Experience
 </p>
 
-<br />
-
 <div align="center">
-
-Open to interesting products, thoughtful teams and challenging engineering problems.
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/chouaib-skitou/">
-  Let’s connect →
-</a>
-
+  <p>
+    Open to interesting products, thoughtful teams and challenging engineering problems.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/chouaib-skitou/">
+      Let’s connect →
+    </a>
+  </p>
 </div>
